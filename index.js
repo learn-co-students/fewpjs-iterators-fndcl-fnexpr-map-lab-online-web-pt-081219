@@ -18,4 +18,4 @@ const titleCased = () => {
     let upperCasedWords = upperCasedWord.join(" ")
     return upperCasedWords
   })
-} 
+}; 
